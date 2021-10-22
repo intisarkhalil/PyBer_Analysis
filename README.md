@@ -3,14 +3,14 @@
 The purpose of this project is to perform an exploratory analysis on **PyBer** ride-sharing data during 2019 [Resources](https://github.com/intisarkhalil/PyBer_Analysis.git), to create several types of visualizations and insights show the relationship between the type of city and the number of drivers, rides as well as percentage of total fares, rides, and drivers by type of the city. The specific purpose of this report it to create a summary DataFrame of the ride-sharing data by city type. In this analysis we write a **Python’s** scripts using **Panda’s** libraries, **Jupyter Notebook**, and **Matplotlib**. 
 
 ## Results: 
-The following image show that rural cities had the highest average fare per driver ($55.49) and ride ($34.62), while urban cities had the lowest average fare per driver ($16.57) and ride ($24.53).
+The following image show that rural cities had the highest average fare per driver ($55.49) and ride ($34.62), while urban cities had the lowest average fare per driver ($16.57) and ride ($24.53). 
 
-![image](https://user-images.githubusercontent.com/62036983/138525153-d0323886-90a6-4809-841f-59b5ac9c4b53.png)
- 
+![555555](https://user-images.githubusercontent.com/62036983/138525902-bfdd58fb-6bd1-4614-b8ab-302a78acbb5d.png)
+
 The following multiple line graph show the trend analysis of fare by city type, per week. Urban cities had the highest total fare in general compare with rural and suburban cities. Rural cities had the lowest total fare per week while suburban cities based in the medial between urban and rural cites.
 
-![image](https://user-images.githubusercontent.com/62036983/138525195-f3920a7c-bf58-4902-acee-b4c31d6b6d4d.png)
- 
+![5555](https://user-images.githubusercontent.com/62036983/138525939-1470c07b-cfd6-41d1-89b8-56e883628c8f.png)
+
 There is an increasing in the total fare in the last week of February in all city types. 
 
 ## Summary: 
